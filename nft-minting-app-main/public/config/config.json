@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc01C51C3A49d72C4aaE887121Ef2CcFCC40787d7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xc01C51C3A49d72C4aaE887121Ef2CcFCC40787d7",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Bookshelf and Books",
+  "SYMBOL": "BBNFT",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
